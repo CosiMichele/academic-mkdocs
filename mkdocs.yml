@@ -1,12 +1,12 @@
 # General
-site_name: "Your Name / Site Title"
-site_description: 'Short Description'
-site_author: 'FirstName LastName'
-site_url: https://cosimichele.github.io/academicpages-mkdocs
+site_name: "Michele Cosi's Website"
+site_description: 'This website is rendered in MkDocs and hosted on GitHub pages for the FOSS 23 spring class'
+site_author: 'Michele Cosi'
+site_url: https://cosimichele.github.io/academic-mkdocs
 
 # Repository
-repo_name: RepoName
-repo_url: https://github.com/CosiMichele/academicpages-mkdocs
+repo_name: academic-mkdocs
+repo_url: https://github.com/CosiMichele/academic-mkdocs
 edit_uri: edit/main/docs/
 
 # Configuration
